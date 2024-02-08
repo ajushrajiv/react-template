@@ -1,8 +1,8 @@
 import styles from "./StandardButton.module.css";
 
-function StandardButton({onclick, text}){
+function StandardButton({onClick, text}){
     return(
-        <div className={styles.btn} onclick={onclick}>
+        <div className={styles.btn} onClick={onClick}>
             {text}
         </div>
     );
