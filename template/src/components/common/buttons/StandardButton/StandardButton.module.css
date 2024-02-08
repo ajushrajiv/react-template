@@ -1,0 +1,8 @@
+.btn{
+    background-color: var(--secondary-color);
+    border-radius: 8px;
+    width:8vw;
+    display: flex;
+    justify-content: center;
+    padding: 4px;
+}

@@ -1,0 +1,14 @@
+.navcontainer{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 32px;
+}
+.buttoncontainer{
+    float: right;
+    display: flex;
+    padding: 10px;
+}
+
+.spacer{
+    padding: 4px;
+}
