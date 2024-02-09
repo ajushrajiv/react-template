@@ -6,6 +6,7 @@ import HomePage from './pages/homepage/HomePage';
 import InfoPage from './pages/infopage/InfoPage';
 
 //Hallo von gruppen Arbeit 
+//Hallo again from App.js
 function App() {
   return (
     <div className="App">
