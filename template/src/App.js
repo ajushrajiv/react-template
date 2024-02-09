@@ -5,7 +5,7 @@ import Navbar from './components/layout/navbar/Navbar';
 import HomePage from './pages/homepage/HomePage';
 import InfoPage from './pages/infopage/InfoPage';
 
-
+//Hallo von gruppen Arbeit 
 function App() {
   return (
     <div className="App">
